@@ -13,3 +13,4 @@ Generates "poetry" using AI. I really wouldn't call it poetry but it's close eno
 The folder legacy just contains old code and an old pytorch model
 
 # Screenshot
+![AnVIL Image](../image.png ""Poem"")
