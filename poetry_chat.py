@@ -62,5 +62,3 @@ print('Poem loaded...')
 
 system('cls')
 print('Generated Poem:\n\n' + final_poem)
-#print('-----------------------------------------')
-#print(output_top_k_sampling.text)
